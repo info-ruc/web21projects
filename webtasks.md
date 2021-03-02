@@ -15,7 +15,7 @@ About：Build fine-grained knowledge graph from given research papers of Arxiv6k
 - ... other important questions...
 
 ## Task2(MultiModalSys):
--	About: Build multimodal retrieval or recommendation system supporting text, image, formulas, and tables. Consider answering the following question:
+About: Build multimodal retrieval or recommendation system supporting text, image, formulas, and tables. Consider answering the following questions:
 - Which image is most relevant to a given sentence/query?
 -	Which sentence/paragraph is most relevant to a given image?
 -	Which formulas are relevant to a given sentence/query?
@@ -24,6 +24,6 @@ About：Build fine-grained knowledge graph from given research papers of Arxiv6k
 -	... other important questions ...
 
 ## Task3(DIY)：
--	About：build your own dataset, and develop some interesting models with it.
+About：build your own dataset, and develop some interesting models with it.
 
 ### Any suggestions are welcome, current tasks may be updated and new tasks may be added in the future.

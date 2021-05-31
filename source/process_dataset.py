@@ -1,7 +1,12 @@
 import pickle
-# file_path="../dataset/iwslt14.tokenized.de-en/"
-bin_path='../dataset/test_bin/'
-file_path='../dataset/test/'
+import argparse
+parser=argparse.ArgumentParser()
+parser.add_argument("--data_path",type=str,required=True)
+parser.add_argument('--bin_path',type=str,required=True)
+args=parser.parse_args()
+file_path=args.data_path
+
+bin_path=args.bin_path
 data_name=['test','valid']
 languages=['en','de']
 for language in languages:

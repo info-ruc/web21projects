@@ -84,7 +84,7 @@ def eval(step, model, data_loader, best_loss, device):
     fitlog.add_loss(math.exp(mean(losses)), step=step, name='eval')
     fitlog.add_metric(correct / total, step=step, name='eval accuracy')
     if best_loss > mean(losses):
-        torch.save(model.state_dict(), 'best_model.pkl')
+        torch.save(model.state_dict(), './model/best_model.pkl')
         best_loss = mean(losses)
         print("saving to best_model.pkl")
     print("eval epoch {} ||  ppl {} ||accuracy {} || loss  {} ||best loss {}".format(step, math.exp(mean(losses)),

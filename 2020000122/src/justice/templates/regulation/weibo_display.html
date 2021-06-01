@@ -1,0 +1,103 @@
+<!-- extends表明此页面继承自 base.html 文件 -->
+{% extends "base.html" %}
+{% load staticfiles %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+{{ context.keyword_name }} {{ context.element_name }}
+{% endblock title %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <h1 class="col-12 mt-4 mb-4" id = "title">{{ context.keyword_name }}</h1>
+        <h2 class="col-12 mt-4 mb-4" id = "keyword">{{ context.element_name }}</h2>
+      <div class="col-12">
+          <p>{{ context.content }}</p>
+      </div>
+      </div>
+</div>
+
+
+<!-- 列表循环 -->
+<div style="width: 92%;margin-left: 4%;margin-right: 4%">
+
+  <table class="table table-hover" id="mytable">
+      <thead>
+          <tr>
+          <!-- <th scope="col">编号</th> -->
+            <th scope="col">内容</th>
+            <th scope="col">日期</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for data in context.data_list %}
+          <tr id="{{ data.id }}">
+                  <!-- <th scope="row">{{ data.id }}</th> -->
+                  <td>
+                      <ul class="list-unstyled" >
+                  <li class="media">
+                      <div class="rounded-lg">
+                          <img class="mr-3" src="{{ data.tou_xiang }}" style="width: 50px; height: 50px;">
+                      </div>
+                      <div class="media-body"  style="width: 80%">
+                          <h5 class="mt-0 mb-1">{{ data.author_name }}</h5>
+                          <p class="weibo_text">微博内容：{{ data.doc_text }}</p>
+                          <p class="source_text">转发原文：// {{ data.weibo_source }}</p>
+                          <p class="source_text">{{ data.weibo_id }}</p>
+                          <p class="mb-0">{{ data.doc_date }} </p>
+                          <a href="{{ data.weibo_link }}" target="_blank">阅读原文</a>
+                      </div>
+                  </li>
+              </ul>
+                  </td>
+                  <td style="display:none;">{{ data.doc_time }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+  </table>
+  </div>
+
+
+{% endblock content %}
+
+{% block footJS %}
+<script type="text/javascript">
+var Data = {{ Data|safe }};
+var alias = Data['alias'];
+var digit_element = Data['digit_element'];
+
+$(document).ready( function(){
+          $('#mytable').DataTable();
+      });
+
+var keyword = document.getElementById("keyword").innerHTML;
+var keyword1 = document.getElementById("title").innerHTML;
+var dom_list = document.getElementsByClassName("weibo_text");
+var dom_list1 = document.getElementsByClassName("source_text");
+
+var i = 0;
+for(i=0;i<dom_list.length;i++){
+  old_html = dom_list[i].innerHTML;
+  new_html = old_html.split(keyword).join("<font color='red'><b>"+ keyword +"</b></font>");
+  new_html = new_html.split(keyword1).join("<font color='red'><b>"+ keyword1 +"</b></font>");
+  for(j=0;j<alias.length;j++){
+    new_html = new_html.split(alias[j]).join("<font color='red'><b>"+ alias[j] +"</b></font>");
+  }
+  new_html = new_html.split(digit_element).join("<font color='red'><b>"+ digit_element +"</b></font>");
+  dom_list[i].innerHTML = new_html;
+}
+for(i=0;i<dom_list1.length;i++){
+  old_html = dom_list1[i].innerHTML;
+  new_html = old_html.split(keyword).join("<font color='red'><b>"+ keyword +"</b></font>");
+  new_html = new_html.split(keyword1).join("<font color='red'><b>"+ keyword1 +"</b></font>");
+  for(j=0;j<alias.length;j++){
+    new_html = new_html.split(alias[j]).join("<font color='red'><b>"+ alias[j] +"</b></font>");
+  }
+  new_html = new_html.split(digit_element).join("<font color='red'><b>"+ digit_element +"</b></font>");
+  dom_list1[i].innerHTML = new_html;
+}
+
+
+</script>
+{% endblock footJS%}

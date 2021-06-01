@@ -1,0 +1,9 @@
+time python forecaster/exp_multi_online_continuous.py tiramisu --method ar --aggregate 60 --horizon 4320 --input_dir online-clusters/ --cluster_path cluster-coverage/coverage.pickle --output_dir prediction-results/
+-e Execution time: 4 seconds
+
+time python forecaster/exp_multi_online_continuous.py tiramisu --method kr --aggregate 60 --horizon 4320 --input_dir online-clusters/ --cluster_path cluster-coverage/coverage.pickle --output_dir prediction-results/
+-e Execution time: 5 seconds
+
+time python forecaster/exp_multi_online_continuous.py tiramisu --method rnn --aggregate 60 --horizon 4320 --input_dir online-clusters/ --cluster_path cluster-coverage/coverage.pickle --output_dir prediction-results/
+-e Execution time: 1078 seconds
+

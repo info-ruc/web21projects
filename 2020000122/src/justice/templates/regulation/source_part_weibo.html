@@ -1,0 +1,44 @@
+{% load staticfiles %}
+<div class="container">
+    <div class="row">
+        <!-- 标题及作者 -->
+        <h1 class="col-12 mt-4 mb-4" id = "subtitle">转发微博数据</h1>
+    </div>
+</div>
+
+<div style="width: 80%;margin-left: 10%;margin-right: 10%">
+<table class="table table-hover" id="weibotable">
+<thead>
+<tr>
+  <th scope="col">内容</th>
+  <th scope="col">日期</th>
+</tr>
+</thead>
+<tbody>
+{% for data in data_list %}
+<tr id="1">
+        <td>
+            <ul class="list-unstyled" >
+        <li class="media">
+            <div class="rounded-lg">
+                <img class="mr-3" src="{{ data.tou_xiang }}" style="width: 50px; height: 50px;">
+            </div>
+            <div class="media-body"  style="width: 80%">
+                <h5 class="mt-0 mb-1">{{ data.author_name }}</h5>
+                <p class="weibo_text">微博内容：{{ data.doc_text }}</p>
+                <p class="source_text">转发原文：// {{ data.weibo_source }}</p>
+                <p >{{ data.doc_time }}</p>
+                <p class="mb-0">{{ data.doc_date }} Opinion: {{ data.opinion }} </p>
+                <a href="{{ data.weibo_link }}" target="_blank">阅读原文</a>
+            </div>
+        </li>
+    </ul>
+        </td>
+        <td style="display:none;">{{ data.doc_time }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+
+

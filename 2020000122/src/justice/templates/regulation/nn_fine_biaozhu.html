@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+细粒度标注数据列表
+{% endblock title %}
+
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+<div style="width: 92%;margin-left: 4%;margin-right: 4%">
+
+<table class="table table-hover" id="mytable">
+    <thead>
+        <tr>
+            <th scope="col">编号</th>
+            <th scope="col">标签</th>
+            <!-- <th scope="col">微博ID</th> -->
+            <th scope="col">微博内容</th>
+            <th scope="col">法条内容</th>
+            <th scope="col">法律名</th>
+            <th scope="col">法条名</th>
+            <th scope="col">编辑</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for data in data_list %}
+        <tr id="{{ data.id }}">
+                <th scope="row">{{ data.id }}</th>
+                <td style="width: 2.5%">{{ data.label }}</td>
+                <!-- <td>{{ data.weibo_id }}</td> -->
+                <td style="width: 35%">
+                    <ul class="list-unstyled" >
+                        <li class="media">
+                            <div class="media-body">
+                                <p class="source_text">{{ data.weibo_content }}</p>
+                                <p class="source_text">{{ data.weibo_id }}</p>
+                            </div>
+                        </li>
+                    </ul>
+                </td>
+                <td style="width: 35%">{{ data.content }}</td>
+                <td style="width: 12.5%">{{ data.belong_to_law }}</td>
+                <td style="width: 12.5%">{{ data.belong_to_clause}}</td>
+                <td style="width: 2.5%;"><button id="{{ data.id }}" onclick="change(this.id)">删除数据</button></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+</table>
+</div>
+
+{% endblock content %}
+
+
+{% block footJS %}
+<script type="text/javascript">
+$.ajaxSetup({
+            data:{csrfmiddlewaretoken:'{{ csrf_token }}'}
+        })
+$(document).ready( function(){
+          $('#mytable').DataTable();
+      });
+
+
+function change(id){
+    // alert(id)
+    $.ajax({  
+                    type:"POST",  
+                    data: {
+                        'data_id':id,
+                    },  
+                    url: "{% url 'regulation:delete_nn_data' %}", //后台处理函数的url 
+                    cache: false,  
+                    dataType: "html",  
+                    success: function(result){  
+                        alert('success')
+                    },  
+                    error: function(){  
+                        // alert("false");  
+                    }  
+                });  
+                return false;  
+}
+
+
+
+</script>
+{% endblock footJS%}
+
+

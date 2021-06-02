@@ -1,0 +1,3 @@
+deepspeed train_dalle.py --image_text_folder ../dataset/COCO_train --truncate_captions True --bpe_path dalle_pytorch/data/coco_bpe_vsize_15000.json --fp16 --taming --deepspeed
+
+python train_dalle.py --image_text_folder ../dataset/COCO_train --truncate_captions True --bpe_path dalle_pytorch/data/coco_bpe_vsize_15000.json --taming

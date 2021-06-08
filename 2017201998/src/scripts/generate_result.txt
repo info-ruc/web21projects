@@ -1,0 +1,2300 @@
+img_id: 2011.04950 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model base reinforcement learn from signal temporal logic specification 
+
+img_id: 2011.14016 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: investigate human response behaviour and preference in joint task interaction 
+
+img_id: 2010.02846 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: safety aware reinforcement learning 
+
+img_id: 2004.01168 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: evaluate the calibration of knowledge graph embeddings for trustworthy link prediction 
+
+img_id: 2011.07660 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : a joint navigation assembly instruction interpretation task in dynamic environment 
+
+img_id: 2006.14032 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: compositional explanation of neuron 
+
+img_id: 2012.04373 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : cross domain name entity recognition 
+
+img_id: 2010.04605 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: instance weight incremental evolution strategy for reinforcement learning in dynamic environment 
+
+img_id: 2010.00780 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards multi robot task motion planning for navigation in belief space 
+
+img_id: 2008.12879 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a metamodel and framework for agi 
+
+img_id: 2010.08056 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: iot platform for covid 19 prevention and control : a survey 
+
+img_id: 2002.00212 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: music transformer : beat base modeling and generation of expressive composition 
+
+img_id: 2011.09608 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: bidirectional rnn base few shot learn for 3d medical image segmentation 
+
+img_id: 2008.12997 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: improve resistance to adversarial deformation by regularize gradient 
+
+img_id: 2006.11274 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: on reward free reinforcement learn with linear function approximation 
+
+img_id: 2007.12306 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: value decomposition multi agent actor critic 
+
+img_id: 2010.12681 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: robust document representation use latent topic and metadata 
+
+img_id: 2004.09406 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: five point to check when compare visual perception in human and machine 
+
+img_id: 2011.10714 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: double meta learn for data efficient policy optimization in non stationary environment 
+
+img_id: 2007.00236 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: semeval 2020 task 4 : commonsense validation and explanation 
+
+img_id: 2004.14162 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: conversation with search engine 
+
+img_id: 2010.05243 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: data agnostic roberta base natural language to sql query generation 
+
+img_id: 2005.03742 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: and expand universe 
+
+img_id: 2007.05156 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a survey on autonomous vehicle control in the era of mixed autonomy : from physic base to ai guided driving policy learning 
+
+img_id: 2006.05443 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: variational model base policy optimization 
+
+img_id: 2009.00712 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: short term traffic prediction with deep neural network : a survey 
+
+img_id: 2006.05714 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : optimized lime explanation for diagnostic computer algorithm 
+
+img_id: 2010.04295 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: captioning : natural language description for mobile user interface element 
+
+img_id: 2009.04965 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: visual relationship detection with visual linguistic knowledge from multimodal representation 
+
+img_id: 2010.15268 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: understand the pathology of approximate policy evaluation when combine with in reinforcement learning 
+
+img_id: 2010.11334 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: 2020 : the first nuanced arabic dialect identification share task 
+
+img_id: 2011.04006 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: long range : a benchmark for efficient transformer 
+
+img_id: 2004.09931 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: knowledge for inductive program synthesis 
+
+img_id: 2012.03322 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: improve auto encoders ' self supervise image classification use pseudo label via data augmentation and the perceptual loss 
+
+img_id: 2003.09553 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adversarial continual learning 
+
+img_id: 2006.16309 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adversarial learning for debiasing knowledge graph embeddings 
+
+img_id: 2012.05860 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: gnn : graph neural network for extreme multi label text classification 
+
+img_id: 2004.00061 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: unification base reconstruction of explanation for science question 
+
+img_id: 2002.00658 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: linear predictor on linearly generate data with miss value : non consistency and solution 
+
+img_id: 2009.03816 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: pso p : parameter synchronization with particle swarm optimization for distributed training of deep neural network 
+
+img_id: 2006.06731 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: bandit with partially observable offline data 
+
+img_id: 2009.05359 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: activation relaxation : a local dynamical approximation to backpropagation in the brain 
+
+img_id: 2009.09654 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: generative imagination machine translation 
+
+img_id: 2011.11728 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: end to end framework for efficient deep learning use 
+
+img_id: 2011.08612 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: empower thing with intelligence : a survey of the progress challenge and opportunity in artificial intelligence of thing 
+
+img_id: 2011.14015 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: active learning in cnns via expect improvement maximization 
+
+img_id: 2006.01784 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: coordinate multiagent industrial 
+
+img_id: 2007.14677 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: on the use of interpretable machine learning for the management of data quality 
+
+img_id: 2005.06587 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: entity enrich neural model for clinical question answer 
+
+img_id: 2011.04748 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: personalize query rewrite in conversational ai agent 
+
+img_id: 2003.03136 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: knowledge graph base method for record linkage 
+
+img_id: 2004.02438 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : self supervise relational feature learn for open relation extraction 
+
+img_id: 2007.10457 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi agent reinforcement learn in bayesian markov game for adaptive move target defense 
+
+img_id: 2010.08114 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: decentralize knowledge graph representation learn 
+
+img_id: 2010.01430 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: episodic memory for learn subjective timescale model 
+
+img_id: 2010.12896 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: abduction and argumentation for explainable machine learning : a position survey 
+
+img_id: 2011.04796 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: model trust in human robot interaction : a survey 
+
+img_id: 2001.06988 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a point wise linear model reveals reason for 30 day of heart failure patient 
+
+img_id: 2007.05096 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi agent rout value iteration network 
+
+img_id: 2006.07443 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: algorithm for compute approximate nash equilibrium in continuous game with application to continuous 
+
+img_id: 2012.00555 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: semantic answer type prediction task smart at 2020 semantic web challenge 
+
+img_id: 2011.07495 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: fair : fair adversarial instance re weight 
+
+img_id: 2010.03755 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: generalizable and explainable dialogue generation via explicit action learn 
+
+img_id: 2011.11395 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: semantic in industry 
+
+img_id: 2007.12750 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: dialog without dialog data : learn visual dialog agent from vqa data 
+
+img_id: 2010.12908 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep graph matching and search for semantic code retrieval 
+
+img_id: 2004.03386 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: efficient context and schema fusion network for multi domain dialogue state tracking 
+
+img_id: 2004.05915 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a survey on impact of transient fault on inference accelerator 
+
+img_id: 2001.00632 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: academic performance estimation with attention base graph convolutional network 
+
+img_id: 2007.01097 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a neural network integrate design and development environment 
+
+img_id: 2012.01743 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: 3d : a 3d supervision approach for next view selection 
+
+img_id: 2006.10504 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: practical massively parallel monte carlo tree search apply to molecular design 
+
+img_id: 2010.03863 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: what can we do to improve peer review in nlp ? 
+
+img_id: 2012.04529 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: cross modal collaborative representation learning and a large scale benchmark for crowd counting 
+
+img_id: 2004.03188 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: increase the inference and learn speed of tsetlin machine with clause index 
+
+img_id: 2007.04938 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a simple unified framework for ensemble learning in deep reinforcement learning 
+
+img_id: 2012.02911 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi head knowledge distillation for model compression 
+
+img_id: 2003.05196 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: uncover the data related limit of human reason research : an analysis base on recommender system 
+
+img_id: 2012.05225 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : one shot face synthesis gan for detect recognition bias 
+
+img_id: 2001.09212 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : procedural content generation via reinforcement learning 
+
+img_id: 2001.00626 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: unsupervised online feature selection for cost sensitive medical diagnosis 
+
+img_id: 2010.11413 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: predict human decision making in psychological task with recurrent neural network 
+
+img_id: 2004.00994 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn to ask medical question use reinforcement learning 
+
+img_id: 2010.08546 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a generative model base adversarial security of deep learning and linear classifier model 
+
+img_id: 2007.11621 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: privacy preserve artificial intelligence technique in 
+
+img_id: 2009.10256 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: extend answer set program with neural network 
+
+img_id: 2011.00583 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: an overview of multi agent reinforcement learn from game theoretical perspective 
+
+img_id: 2011.01506 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a model agnostic interpretable rule extraction procedure for explain classifier 
+
+img_id: 2006.10525 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: starcraft ii build order optimization use deep reinforcement learning and monte carlo tree search 
+
+img_id: 2002.00157 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: share mobile cloud inference for collaborative intelligence 
+
+img_id: 2003.12613 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adaptive reward poison attack against reinforcement learning 
+
+img_id: 2009.08931 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: spatio temporal activation function to map complex dynamical system 
+
+img_id: 2008.04108 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: incremental maintenance of logic program with tailored simplification 
+
+img_id: 2001.08868 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: exploration base language learn for text base game 
+
+img_id: 2009.10874 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a locality sensitive hash neural network for scene text recognition 
+
+img_id: 2001.00006 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn from learn machine : optimisation rule and social norm 
+
+img_id: 2001.06047 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: expect the unexpected : develop autonomous system design principle for react to event and condition 
+
+img_id: 2004.14545 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: explainable deep learning : a field guide for the 
+
+img_id: 2010.01528 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: remember for the right reason : explanation reduce catastrophic forgetting 
+
+img_id: 2005.03947 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: relatedness measure to aid the transfer of building block among multiple task 
+
+img_id: 2001.06980 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: moea d with random partial update strategy 
+
+img_id: 2009.04549 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multimodal deep learning for flaw detection in software program 
+
+img_id: 2011.08772 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a multi level knowledge drive dialogue dataset for restaurant towards customize dialogue system 
+
+img_id: 2011.12661 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: temporal autoencoder with u net style skip connection for frame prediction 
+
+img_id: 2011.13824 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: fast and complete : enable complete neural network verification with rapid and massively parallel incomplete verifier 
+
+img_id: 2007.03807 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: towards a practical measure of interference for reinforcement learning 
+
+img_id: 2011.12930 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: unsupervised object learn use local spatial predictability 
+
+img_id: 2007.05292 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: integrate logical rule into neural multi hop reason for drug 
+
+img_id: 2011.14554 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a selective survey on versatile knowledge distillation paradigm for neural network model 
+
+img_id: 2009.12691 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a multi agent system for solve the dynamic vehicle rout problem with stochastic customer use trajectory data mining 
+
+img_id: 2011.05446 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: perturbation base exploration method in deep reinforcement learning 
+
+img_id: 2011.00485 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: compare machine learn algorithms with or without feature extraction for classification 
+
+img_id: 2012.04226 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a unifying framework for formal theory of novelty : framework example and discussion 
+
+img_id: 2010.11721 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: context representation use dual attention for ontology alignment 
+
+img_id: 2010.02556 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: unsupervised hierarchical concept learning 
+
+img_id: 2011.03435 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: answer span correction in machine reading comprehension 
+
+img_id: 2006.01016 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: probe emergent semantics in predictive agent via question answer 
+
+img_id: 2011.11376 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: on the application of physically guide neural network with internal variable to problem 
+
+img_id: 2011.00382 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a policy gradient algorithm for learn to learn in multiagent reinforcement learning 
+
+img_id: 2004.00817 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: combat the machine ethic crisis : an educational approach 
+
+img_id: 2010.01495 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: dialogue generation on sentence function via structured meta learning 
+
+img_id: 2007.05896 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn abstract model for strategic exploration and fast reward transfer 
+
+img_id: 2011.11442 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : ontology base knowledge map model for digital agriculture 
+
+img_id: 2011.03972 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adaptive linear span network for object skeleton detection 
+
+img_id: 2009.13371 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: avoid help avoidance : use interface design change to promote hint usage in an intelligent tutor 
+
+img_id: 2010.09916 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep reinforcement learn for adaptive network slice in 5g for intelligent vehicular system and smart city 
+
+img_id: 2011.04184 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: text classification through aware disentangle character embed and semantic sub character augmentation 
+
+img_id: 2002.10295 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : a supervised rule base learning system for continuous problem 
+
+img_id: 2012.05506 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: instruction for paper submission to : supplementary material 
+
+img_id: 2011.01826 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: and classify behavior in adversarial environment base on action state trace : an application to money 
+
+img_id: 2009.12065 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: design and implementation of tag : a tabletop game framework 
+
+img_id: 2005.13976 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: towards automate safety coverage and test for autonomous vehicle with reinforcement learning 
+
+img_id: 2011.05519 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: energy consumption forecast use a stacked nonparametric bayesian approach 
+
+img_id: 2002.08277 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: when report generation meet knowledge graph 
+
+img_id: 2001.11507 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: ontology for scenario for the assessment of automated vehicle 
+
+img_id: 2001.10828 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a new arc rout algorithm apply to road maintenance 
+
+img_id: 2002.07125 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: agnostic q learn with function approximation in deterministic system : tight bound on approximation error and sample complexity 
+
+img_id: 2006.07968 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: relational reasoning and generalization use non symbolic neural network 
+
+img_id: 2009.01462 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: penalty and augmented lagrangian method for layer parallel training of residual network 
+
+img_id: 2010.15599 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: expert selection in high dimensional markov decision process 
+
+img_id: 2005.04269 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: control overestimation bias with mixture of continuous distributional quantile critic 
+
+img_id: 2009.13849 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: research and education towards smart and world 
+
+img_id: 2012.01410 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: ontological smart contract in : ontology for agent system and integration of service 
+
+img_id: 2008.10148 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: drive safe : cognitive behavioral mining for intelligent transportation cyber physical system 
+
+img_id: 2010.08762 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: layer wise characterization of latent information leakage in federated learning 
+
+img_id: 2009.06295 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep intrinsic decomposition train on scene yet with realistic light effect 
+
+img_id: 2002.08024 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: non autoregressive dialog state tracking 
+
+img_id: 2009.10228 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: design ai learn experience for k 12 : work future opportunity and a design framework 
+
+img_id: 2006.02174 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: ? ! : a multi task evaluation framework for grounded language learning 
+
+img_id: 2010.04992 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a recursive markov blanket base approach to causal structure learn 
+
+img_id: 2008.10880 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: improve fair prediction use variational inference in causal model 
+
+img_id: 2008.00335 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: connectivity base dynamic queue jump lane for emergency vehicle : a deep reinforcement learn approach 
+
+img_id: 2009.03095 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: robust speak language understand with rl base value error recovery 
+
+img_id: 2011.09845 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a distributed privacy preserve learn dynamic in general social network 
+
+img_id: 2001.10726 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: bayesian neural architecture search use a training free performance metric 
+
+img_id: 2004.03573 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: neural analogical matching 
+
+img_id: 2010.08923 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: towards data distillation for end to end spoken conversational question answer 
+
+img_id: 2001.00682 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: audit and debug deep learning model via decision boundary # 1 : individual level and group level analysis 
+
+img_id: 2009.00433 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: solve the single track train scheduling problem via deep reinforcement learning 
+
+img_id: 2010.14104 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: co attentional transformer for story base video understand 
+
+img_id: 2011.10753 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: emergent road rule in multi agent drive environment 
+
+img_id: 2006.06114 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: consolidate commonsense knowledge 
+
+img_id: 2011.05570 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: challenge of apply deep reinforcement learn in dynamic dispatching 
+
+img_id: 2010.10051 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: track from pattern : learn correspond pattern in point cloud for 3d object track 
+
+img_id: 2010.04652 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards use social hri for improve child 's healthcare experience 
+
+img_id: 2010.01855 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: non trivial closure of a bayesian hyperparameter * 
+
+img_id: 2006.07042 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: recurrent neural network for stochastic control in real time bidding 
+
+img_id: 2005.09611 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: an information theoretic approach for path planning in agent with computational constraint 
+
+img_id: 2001.04432 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a preliminary approach for learn relational policy for the management of critically ill child 
+
+img_id: 2010.11523 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: explore search space tree use an version of monte carlo tree search for combinatorial optimization problem 
+
+img_id: 2005.12974 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi aspect fairness through personalize re rank 
+
+img_id: 2006.14769 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: in 
+
+img_id: 2009.00363 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a benchmark for multi uav task assignment of an extended team problem 
+
+img_id: 2012.02924 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a simulation environment for interactive task in large realistic scene 
+
+img_id: 2008.12001 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : automated feature selection via diversity aware interactive reinforcement learning 
+
+img_id: 2008.03620 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: light and shadow in evolutionary deep learning : taxonomy critical methodological analysis case of study learn lesson recommendation and challenge 
+
+img_id: 2007.08821 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: tackle scalability issue in mine path pattern from knowledge graph : a preliminary study 
+
+img_id: 2001.11279 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: technical appendix for improve the robustness of graph through reinforcement learning and graph neural network 
+
+img_id: 2010.04827 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards self regulate ai : challenge and opportunity of ai model governance in financial service 
+
+img_id: 2001.07076 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: domain expertise with self awareness in software system : a architecture guideline 
+
+img_id: 2002.00149 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: periodic intra ensemble knowledge distillation for reinforcement learning 
+
+img_id: 2011.14808 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: bring ai to edge : from deep learning 's perspective 
+
+img_id: 2005.11203 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: digital neural network in the brain : from mechanism for extract structure in the world to self structure the brain itself 
+
+img_id: 2003.11973 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : graph base information share network for vehicle trajectory prediction 
+
+img_id: 2005.08231 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: study the transfer of bias from programmer to program 
+
+img_id: 2008.13336 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: shape defense 
+
+img_id: 2010.00581 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn social learning 
+
+img_id: 2008.05638 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: automated temporal equilibrium analysis : verification and synthesis of multi player game 
+
+img_id: 2001.01007 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: automate discovery of data transformation for robotic process automation 
+
+img_id: 2004.02610 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: continuous motion planning with temporal logic specification use deep neural network 
+
+img_id: 2007.05284 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: monotonicity in case base reason with abstract argumentation 
+
+img_id: 2010.00168 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: multi agent system base on contextual defeasible logic consider focus 
+
+img_id: 2009.14519 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: uncertainty estimation for community standard violation in online social network 
+
+img_id: 2006.04672 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : monte carlo planning in continuous space mdps with non asymptotic analysis 
+
+img_id: 2007.04212 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: the scatter compositional learner : object attribute relationship in analogical reasoning 
+
+img_id: 2009.06732 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: efficient transformer : a survey 
+
+img_id: 2011.12707 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: prediction of mortality in sub african country use data level linkage of multiple survey 
+
+img_id: 2003.07492 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : iot assist context aware automatic cognitive health assessment 
+
+img_id: 2006.06535 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: privacy adversarial network : representation learn for mobile data privacy 
+
+img_id: 2008.02849 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a scheduling and routing problem with dependent task 
+
+img_id: 2009.14237 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: augment scientific paper with just in time position sensitive definition of term and symbol 
+
+img_id: 2009.09191 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : an open source textual adversarial attack toolkit 
+
+img_id: 2006.13607 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: circuit rout use monte carlo tree search and deep neural network 
+
+img_id: 2005.13399 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: the first share task on discourse representation structure parse 
+
+img_id: 2005.12064 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: of a discrete trajectory space for robot motion planning 
+
+img_id: 2009.02728 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: discover reliable causal rule 
+
+img_id: 2006.07712 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: an ontology for the material design domain 
+
+img_id: 2004.13242 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: efficient black box planning use macro action with focused effect 
+
+img_id: 2003.00719 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: knowledge graph on the web an overview 
+
+img_id: 2010.00684 
+candidates: ['on', 'the', 'of', 'deep', 'learning'] 
+references: towards scalable bayesian learning of causal dag 
+
+img_id: 2006.02046 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: fairness aware explainable recommendation over knowledge graph 
+
+img_id: 2007.10781 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: data stream clustering : a review 
+
+img_id: 2011.00554 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: can a robot trust you ? a drl base approach to trust driven human guide navigation 
+
+img_id: 2006.03363 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: from check to inference : actual causality computation as optimization problem 
+
+img_id: 2008.03519 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: build new from old : a draw task to study how human and model build new compositional program compositional program 
+
+img_id: 2001.11695 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model sensing and perception error towards robust decision making in autonomous vehicle 
+
+img_id: 2009.07982 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: strategy proof mechanism for facility location at limited location 
+
+img_id: 2010.05353 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: local connectivity in centroid clustering 
+
+img_id: 2001.06086 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a critical look at the applicability of markov logic network for music signal analysis 
+
+img_id: 2011.05824 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: semi structure deep piecewise exponential model 
+
+img_id: 2005.14259 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: intelligent energy management system use deep reinforcement learning 
+
+img_id: 2010.11223 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: meta train agent implement bayes optimal agent 
+
+img_id: 2006.15417 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: improve interpretability of cnn model use non negative concept activation vector 
+
+img_id: 2008.09075 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: control dialogue generation with semantic exemplar 
+
+img_id: 2011.07952 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi channel mr reconstruction mc challenge compare accelerate mr reconstruction model and assess their to datasets collect with different 
+
+img_id: 2009.08111 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: the relationship between dynamic programming and active inference : the discrete finite horizon case 
+
+img_id: 2011.13885 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: offline learn from demonstration and unlabeled experience 
+
+img_id: 2002.10329 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: knowledge base support for scholarly editing and text processing with declarative and a core write in prolog 
+
+img_id: 2004.01949 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: toolkit : intelligent assistance to ui design 
+
+img_id: 2010.08532 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: towards accurate knowledge transfer via target awareness representation disentanglement 
+
+img_id: 2005.06695 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: surrogate assist optimisation for travel problem 
+
+img_id: 2007.12500 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: semi supervise learn from demonstration through program synthesis : an inspection robot case study 
+
+img_id: 2003.00504 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : monocular 3d object detection use pairwise spatial relationship 
+
+img_id: 2011.10076 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: optimal algorithm for convex nest stochastic composite optimization 
+
+img_id: 2006.09807 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: multi domain level generation and blend with sketch via example drive and variational autoencoders 
+
+img_id: 2010.12327 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards human agent knowledge fusion in support of distributed coalition team 
+
+img_id: 2001.10048 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: an ontology aware framework for audio event classification 
+
+img_id: 2010.14260 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: mixture of model for top k ranking : sampling and identifiability 
+
+img_id: 2009.10249 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: dynamic multi agent path find base on conflict resolution use answer set programming 
+
+img_id: 2010.10391 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : clinical domain knowledge augmentation of contextual embeddings use the unified medical language system 
+
+img_id: 2009.10610 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: property direct verification of recurrent neural network 
+
+img_id: 2006.09670 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : a fast algorithm for count markov equivalent dag and design experiment 
+
+img_id: 2002.06100 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: analyze differentiable fuzzy logic operator 
+
+img_id: 2006.07837 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: representative committee of peer 
+
+img_id: 2012.04984 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: hybrid quantum compute tabu search algorithm for partition problem : preliminary study on the travel salesman problem 
+
+img_id: 2003.10520 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: neural game engine : accurate learning of generalizable forward model from pixel 
+
+img_id: 2011.03275 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: sample efficient reinforcement learning in robotic table 
+
+img_id: 2010.08252 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: hyperparameter auto tune in self supervise robotic learning 
+
+img_id: 2011.01542 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi fidelity multi objective bayesian optimization : an output space entropy search approach 
+
+img_id: 2011.07751 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: tucker decomposition base temporal knowledge graph completion 
+
+img_id: 2006.16318 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: learning and planning in average reward markov decision process 
+
+img_id: 2010.15413 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: and harness in multi task learning 
+
+img_id: 2007.10058 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: it 's not ! latent encoding for valence structure alignment 
+
+img_id: 2011.04044 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: explore end to end differentiable natural logic modeling 
+
+img_id: 2007.05271 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn to play sequential game versus unknown opponent 
+
+img_id: 2010.01999 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a novel actor dual critic model for remote sense image captioning 
+
+img_id: 2007.13475 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards an ontology of interaction 
+
+img_id: 2009.07916 
+candidates: ['on', 'the', 'of', 'deep', 'learning'] 
+references: causal discovery for causal bandit utilize separate set 
+
+img_id: 2003.12239 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a distributional analysis of sample base reinforcement learn algorithm 
+
+img_id: 2011.00330 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: resource allocation in multi arm bandit exploration : nonlinear scale with adaptive parallelism 
+
+img_id: 2010.01992 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: put theory to work : from learn bound to meta learn algorithm 
+
+img_id: 2006.05986 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a large scale and diverse dataset for clarification question generation 
+
+img_id: 2003.04521 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn to be global optimizer 
+
+img_id: 2011.14684 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: robust ultra range error mitigation with deep learning at the edge 
+
+img_id: 2008.01572 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model reduction of shallow cnn model for reliable deployment of information extraction from medical report 
+
+img_id: 2005.00887 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a library for base model 
+
+img_id: 2010.08126 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: test the quantitative hypothesis use artificial narrative comprehension i bootstrapping mean from episodic narrative view as a feature landscape 
+
+img_id: 2011.14925 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: autonomous graph mining algorithm search with best speed accuracy trade off 
+
+img_id: 2002.00388 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a survey on knowledge graph : representation acquisition and application 
+
+img_id: 2009.05794 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : an open benchmark for click through rate prediction 
+
+img_id: 2006.15469 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: end to end ai base point of care diagnosis system for classify respiratory and early detection of covid 19 
+
+img_id: 2009.06371 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a toolbox for the analysis of sequence of random object drive by context tree model 
+
+img_id: 2007.03940 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: reconcile causality and statistic : an introduction to the do calculus with example 
+
+img_id: 2010.06196 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: mathematical word problem generation from commonsense knowledge graph and equation 
+
+img_id: 2010.02819 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: interpretable sequence classification via discrete optimization 
+
+img_id: 2010.16336 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: leverage extract model adversary for improved black box attack 
+
+img_id: 2012.04689 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a dataset and application for facial recognition of individual in environment 
+
+img_id: 2006.08714 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: latent bandit revisit 
+
+img_id: 2011.11840 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: benchmarking inference performance of deep learning model on analog device 
+
+img_id: 2010.05045 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: interpret multivariate interaction in dnns 
+
+img_id: 2010.04736 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: evaluate and characterize human rationale 
+
+img_id: 2003.00138 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a note on latency variability of deep neural network for mobile inference 
+
+img_id: 2007.10820 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: at semeval 2020 task 10 : transformer for emphasis selection 
+
+img_id: 2006.04948 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: ai research consideration for human existential safety 
+
+img_id: 2001.01296 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: measure diversity in heterogeneous information network 
+
+img_id: 2002.01014 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: four principle of explainable ai as apply to and facial algorithm 
+
+img_id: 2009.11917 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn in a small big world 
+
+img_id: 2009.02557 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a communication efficient and privacy preserving federated feature engineering framework 
+
+img_id: 2009.01721 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: max value entropy search for multi objective bayesian optimization with constraint 
+
+img_id: 2011.11347 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: time series data imputation : a survey on deep learning approach 
+
+img_id: 2011.01706 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: variational deep q network 
+
+img_id: 2006.06082 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: system to integrate fairness : an industry approach 
+
+img_id: 2010.10593 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: cross modal information maximization for medical imaging : 
+
+img_id: 2002.00811 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : surrogate model for evaluation of constrain tour with vehicle 
+
+img_id: 2004.12311 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : the knowledge of neural network with filter and knowledge distillation 
+
+img_id: 2002.11573 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: efficient reinforcement learn control for robot base on prior knowledge 
+
+img_id: 2007.12248 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: be visual explanation useful ? a case study in model in the loop prediction 
+
+img_id: 2003.00387 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: say as you wish : fine grain control of image caption generation with abstract scene graph 
+
+img_id: 2011.06306 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: analyze neural discourse coherence model 
+
+img_id: 2011.05064 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: supplementary material for what do you think would happen ? explain agent behaviour through intend outcome ' 
+
+img_id: 2006.06412 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model human drive behavior through generative adversarial imitation learning 
+
+img_id: 2011.04752 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: trajectory planning for autonomous vehicle use hierarchical reinforcement learning 
+
+img_id: 2007.01962 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: reward machine for cooperative multi agent reinforcement learning 
+
+img_id: 2009.09192 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn to attack : towards textual adversarial in real world situation 
+
+img_id: 2010.04098 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : what and how much do bert already know about event argument ? a study on the dataset 
+
+img_id: 2001.06927 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: at vqa model : vqa model with sub question 
+
+img_id: 2006.06054 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: marginal utility for plan in continuous or large discrete action space 
+
+img_id: 2005.10383 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: information acquisition under resource limitation in a noisy environment 
+
+img_id: 2003.00744 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : pre train language model for vietnamese 
+
+img_id: 2010.03096 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: knowledge aware method for charge prediction 
+
+img_id: 2005.02008 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: dynamically adjust transformer batch size by monitor gradient direction change 
+
+img_id: 2006.11309 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model agent policy with interpretable imitation learning 
+
+img_id: 2010.01480 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: knowledge enhance personalized review generation with capsule graph neural network 
+
+img_id: 2003.01899 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: active preference elicitation via robust optimization 
+
+img_id: 2006.12344 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: metaheuristics for the online shop scheduling problem 
+
+img_id: 2005.13275 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: who be this explanation for ? human intelligence and knowledge graph for explainable ai 
+
+img_id: 2002.01352 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a difference of convex program approach with parallel branch and bound for sentence compression via a hybrid extractive model 
+
+img_id: 2011.12538 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a label convolutional encoder decoder for sensing in machine 
+
+img_id: 2006.15714 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: active finite reward automaton inference and reinforcement learn use query and 
+
+img_id: 2011.09776 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: improve bayesian network structure learning in the presence of measurement error 
+
+img_id: 2003.04518 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: explore unknown state with action balance 
+
+img_id: 2002.01080 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: bridge the gap : post hoc symbolic explanation for sequential decision make problem with representation 
+
+img_id: 2011.00551 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adversarial self supervise scene flow estimation 
+
+img_id: 2006.13208 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: feature reward learning : human input 
+
+img_id: 2007.07477 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: explain deep neural network use unsupervised clustering 
+
+img_id: 2010.14439 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: differentiable open end commonsense reason 
+
+img_id: 2010.07459 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi label few zero shot learn with knowledge aggregate from multiple label graph 
+
+img_id: 2002.03153 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: majority voting and the 's theorem 
+
+img_id: 2010.06671 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a multi modal method for detection use textual and visual cue 
+
+img_id: 2004.00686 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: bias in machine learn what be it good for ? 
+
+img_id: 2008.00120 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: the extend version 
+
+img_id: 2010.13688 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a survey of embed space alignment method for language and knowledge graph 
+
+img_id: 2006.12366 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: scoring and assessment in medical training simulator with dynamic time series classification 
+
+img_id: 2005.01654 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn the association of & adversarial technique 
+
+img_id: 2011.12216 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: energy base model for continual learning 
+
+img_id: 2009.04462 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a survey on data pricing : from economics to data science 
+
+img_id: 2008.10327 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: knowledge empower representation learning for chinese medical reading comprehension : task model and resource 
+
+img_id: 2004.02502 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: variable shift sdd : a more succinct decision diagram 
+
+img_id: 2010.03549 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: on the evaluation of generative adversarial network by discriminative model 
+
+img_id: 2003.07425 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards transparent robotic planning via contrastive explanation 
+
+img_id: 2010.14746 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: continuous lyapunov controller and non linear system optimization use deep machine learning 
+
+img_id: 2006.06649 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: closed loop neural symbolic learn via integrate neural perception grammar parsing and symbolic reasoning 
+
+img_id: 2007.09815 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: event prediction in the big data era : a systematic survey 
+
+img_id: 2005.12360 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: non cooperative multi agent system with explore agent 
+
+img_id: 2006.09519 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: align with heterogeneous preference for kidney exchange 
+
+img_id: 2011.07735 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : common sense reason to multi modal dense video captioning and video question answer 
+
+img_id: 2009.07888 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: transfer learning in deep reinforcement learning : a survey 
+
+img_id: 2011.10482 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: implement the cognition level for industry by integrate augment reality and manufacturing execution system 
+
+img_id: 2004.13553 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: universal masking be urgent in the covid 19 pandemic : and agent base model empirical validation policy recommendation 
+
+img_id: 2009.08453 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: v2 : boosting vanilla resnet 50 to 80 + top 1 accuracy on imagenet without trick 
+
+img_id: 2002.12196 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: annotation of emotion in personal narrative 
+
+img_id: 2005.12697 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: active measure reinforcement learning for observation cost minimization 
+
+img_id: 2003.13721 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: abstractive text summarization 
+
+img_id: 2011.01843 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: tabular transformer for model multivariate time series 
+
+img_id: 2009.11142 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: the schedule job set optimization problem : a model base diagnosis approach 
+
+img_id: 2008.03526 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: advance lazy ground asp solve technique phase save heuristic and more 
+
+img_id: 2010.06371 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: an empirical study on user review target mobile apps ' security & privacy 
+
+img_id: 2009.11278 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: x : caption and answer question with multi modal transformer 
+
+img_id: 2009.00326 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: model combinatorial constrain problem in python 
+
+img_id: 2004.10386 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: hierarchically fair federate learning 
+
+img_id: 2011.08091 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: tweet sentiment quantification : an experimental re evaluation 
+
+img_id: 2005.12644 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: be your chatbot gdpr ? open issue in agent design 
+
+img_id: 2004.04851 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: spatial for detect human object interaction 
+
+img_id: 2011.08960 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep serial number : computational for dnn property protection 
+
+img_id: 2009.11190 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: enterprise ai integrate artificial intelligence into business 
+
+img_id: 2010.06627 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: video game level repair via mixed integer linear programming 
+
+img_id: 2005.06148 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a novel assist evolutionary level and its application to super 
+
+img_id: 2003.06499 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : enhance large scale language understanding 
+
+img_id: 2012.00868 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: towards good practice in self supervise representation learn 
+
+img_id: 2005.04379 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: semi supervise dialogue policy learn via stochastic reward estimation 
+
+img_id: 2010.04831 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: improve local identifiability in probabilistic box embeddings 
+
+img_id: 2010.14685 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: parameterized neural ordinary differential equation : application to computational physic problem 
+
+img_id: 2005.04397 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: enhance 's selectivity for uavs with spatial temporal distribute connection 
+
+img_id: 2006.08785 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: on effective parallelization of monte carlo tree search 
+
+img_id: 2009.13931 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: residual acoustic echo suppression base on efficient multi task convolutional neural network 
+
+img_id: 2011.15038 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a framework for clustering of shorter text in latent semantic space 
+
+img_id: 2007.07573 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: defeasible via rational closure 
+
+img_id: 2009.09378 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: difference aware knowledge selection for knowledge ground conversation generation 
+
+img_id: 2007.14604 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: quantity quality : on hyperparameter optimization for deep reinforcement learning 
+
+img_id: 2009.03352 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a fast randomized algorithm for find the maximal common subsequence 
+
+img_id: 2010.10150 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: local knowledge power conversational agent 
+
+img_id: 2011.02610 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: improve event duration prediction via time aware pre training 
+
+img_id: 2002.05442 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep learning for source code modeling and generation : model application and challenge 
+
+img_id: 2008.13335 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: quaternion base self attentive long short term user preference encode for recommendation 
+
+img_id: 2011.09384 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: introduction to core set : an updated survey 
+
+img_id: 2001.05847 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: end to end pixel base deep active inference for body perception and action 
+
+img_id: 2002.02325 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: social diversity and social mixed reinforcement learning 
+
+img_id: 2011.09554 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a cognitive approach base on the actionable knowledge graph for support maintenance operation 
+
+img_id: 2005.12529 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: policy driven neural response generation for knowledge ground dialogue system 
+
+img_id: 2006.02909 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: assess intelligence in artificial neural network 
+
+img_id: 2006.12694 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: limit of transfer learning 
+
+img_id: 2011.15007 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : realistic causal inference benchmarking 
+
+img_id: 2008.05972 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a survey on knowledge integration technique with artificial neural network for 2 time series model 
+
+img_id: 2004.10746 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: chip placement with deep reinforcement learning 
+
+img_id: 2010.01062 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: exploration in approximate hyper state space for meta reinforcement learning 
+
+img_id: 2011.01444 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a score and search approach to learn bayesian network with noisy or relation 
+
+img_id: 2004.03267 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: guide dialogue policy learn without adversarial learning in the loop 
+
+img_id: 2005.12632 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model penetration test with reinforcement learn use capture the flag challenge and tabular q learning 
+
+img_id: 2009.12678 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: i like to move it : pose estimation as an action decision process 
+
+img_id: 2001.07141 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: dynamic epistemic logic game with epistemic temporal goal 
+
+img_id: 2011.07647 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: good or big '' ? ai ethic and online exam supervision technology 
+
+img_id: 2001.01577 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn reusable option for multi task reinforcement learn 
+
+img_id: 2009.04903 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: possible of control argumentation framework extend version 
+
+img_id: 2001.04025 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: universal successor feature for transfer reinforcement learn 
+
+img_id: 2011.07497 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: generate negative commonsense knowledge efficiently and 
+
+img_id: 2011.12722 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: attention aware cost volume pyramid base multi view network for 3d reconstruction 
+
+img_id: 2009.01449 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : proposal bottleneck in two stage refer expression grounding 
+
+img_id: 2011.03372 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : improve data privacy and model diversity in automl anonymous 
+
+img_id: 2006.09019 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a personal robot assistant for human robot interaction and care application 
+
+img_id: 2006.04271 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multi task reinforcement learn base mobile manipulation control for dynamic object tracking and 
+
+img_id: 2007.09177 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : a multi player game to a neural network 
+
+img_id: 2004.09124 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: compositionality and generalization in emergent language 
+
+img_id: 2005.10297 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: causality responsibility and in team plan 
+
+img_id: 2009.02083 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: policy gradient reinforcement learn for policy represent by fuzzy rule : application to simulation of speed control of an 
+
+img_id: 2009.03587 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: boolean network synthesis base on tabu search 
+
+img_id: 2009.05697 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : real time object detection on mobile device via compression compilation co design 
+
+img_id: 2012.02175 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: multimodal spatio temporal deep learning approach for pain assessment 
+
+img_id: 2010.11506 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: calibrate language model fine tune for in and out of distribution data 
+
+img_id: 2009.07396 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: ground adaptation for zero shot semantic parsing 
+
+img_id: 2005.06022 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: reputation agent : fair review in market 
+
+img_id: 2010.09387 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: evaluate the safety of deep reinforcement learn model use semi formal verification 
+
+img_id: 2009.00163 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: reinforcement learn base black box attack to link prediction in dynamic graph 
+
+img_id: 2010.08303 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: peer assist robotic learning : a data driven collaborative learning approach for cloud robotic system 
+
+img_id: 2003.04514 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : diversity induce information bottleneck in model ensemble 
+
+img_id: 2012.04056 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: semantics alter modification for evaluate comprehension in machine reading 
+
+img_id: 2001.08236 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: search base software engineering for self adaptive system : survey suggestion and opportunity 
+
+img_id: 2009.00249 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : create expressive visualization use reinforcement learning 
+
+img_id: 2007.06850 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a model to support collective reasoning : formalization analysis and computational assessment 
+
+img_id: 2005.08078 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: ontology and cognitive outcome 
+
+img_id: 2011.07876 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a survey on the explainability of supervised machine learning 
+
+img_id: 2012.03308 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : text guide diverse image generation and manipulation 
+
+img_id: 2008.12736 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : relation aware self attention for knowledge tracing 
+
+img_id: 2010.16409 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: inherent trade offs in the fair allocation of treatment 
+
+img_id: 2005.11810 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn visual policy via planner clone 
+
+img_id: 2009.13603 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: visual for unsupervised entity alignment 
+
+img_id: 2011.01969 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: face work for human agent joint decision making 
+
+img_id: 2011.14870 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: prior flow variational autoencoder : a density estimation model for non load monitoring 
+
+img_id: 2007.06852 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: global convergence of second order dynamic in two layer neural network 
+
+img_id: 2010.10407 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: where be the normative proof ? assumption and in ml fairness research 
+
+img_id: 2010.01496 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: explain deep neural network 
+
+img_id: 2011.06985 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: robotic self representation improve manipulation skill and transfer learning 
+
+img_id: 2012.05002 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: voter in district base election 
+
+img_id: 2002.04833 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: reward rational implicit choice : a unifying formalism for reward learning 
+
+img_id: 2003.10025 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: interpretable machine learn model : a physic base view 
+
+img_id: 2004.01387 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a deep ensemble multi agent reinforcement learn approach for air traffic control 
+
+img_id: 2008.12647 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : adaptive adversarial imitation learning 
+
+img_id: 2011.02082 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a deep learning approach to high dimensional reachability 
+
+img_id: 2011.01536 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : translation quality estimation with cross lingual transformer 
+
+img_id: 2007.14928 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a development cycle for automate self exploration of robot behavior 
+
+img_id: 2007.02484 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: logic language and calculus logical understanding i 
+
+img_id: 2011.09022 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: flat : fast lightweight and accurate method break for cardinality estimation 
+
+img_id: 2009.06847 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep reinforcement learn for unknown anomaly detection 
+
+img_id: 2010.13957 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : meta reinforcement learn from image via latent state model 
+
+img_id: 2010.11773 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: on resource efficient bayesian network classifier and deep neural network 
+
+img_id: 2008.05239 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a knowledge graph for assess planning strategy 
+
+img_id: 2004.04412 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: reinforce anytime bottom up rule learn for knowledge graph completion 
+
+img_id: 2012.05462 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: cold start sequential recommendation via meta learner 
+
+img_id: 2011.08755 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: measure the novelty of natural language text use the conjunctive clause of a tsetlin machine text classifier 
+
+img_id: 2012.03204 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: fever : a complex flexible and sport game environment for multi agent reinforcement learning 
+
+img_id: 2010.10596 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: counterfactual explanation for machine learning : a review 
+
+img_id: 2003.12172 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: edge intelligence : architecture challenge and application 
+
+img_id: 2002.00557 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: dr : improve text to sql use a discriminative re 
+
+img_id: 2010.00309 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : contextualized language and knowledge embedding 
+
+img_id: 2010.15158 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: cnn on coordinate image for structure analysis 
+
+img_id: 2004.02594 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: data manipulation : towards effective instance learn for neural dialogue generation via learn to augment and 
+
+img_id: 2007.16045 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: learner explain competitive behaviour of reinforcement learning agent 
+
+img_id: 2007.00720 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adversarial example game 
+
+img_id: 2006.13155 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: supplementary material for logical neural network 
+
+img_id: 2008.12639 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: path planning for a swarm in a environment use differential evolution 
+
+img_id: 2004.02326 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: for regulator validation of bag method use in retail 
+
+img_id: 2012.02104 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: discriminatory expression to produce interpretable model in context 
+
+img_id: 2009.10152 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: towards portfolio of constraint model : a case study with the balanced academic curriculum problem 
+
+img_id: 2008.12401 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: automatic player identification in 2 
+
+img_id: 2011.01337 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: incorporate in reinforcement learning for a competitive game 
+
+img_id: 2010.01736 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: geometry aware instance reweighted adversarial training 
+
+img_id: 2006.01503 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: sat : a community drive effort for archive building and run more than thousand sit solver 
+
+img_id: 2010.02193 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: master atari with discrete world model 
+
+img_id: 2001.10585 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: an automated approach for the discovery of interoperability 
+
+img_id: 2011.01452 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: meta learn for natural language understand under continual learning framework 
+
+img_id: 2010.11246 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: on the potential of logical alignment for semantic parsing to sql query 
+
+img_id: 2005.00330 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: linguistic question answer challenge 
+
+img_id: 2004.10430 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: policy gradient from demonstration and curiosity 
+
+img_id: 2003.09579 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: bird : training an agent to play bird use reinforcement learn technique 
+
+img_id: 2011.12906 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: open world learn without label 
+
+img_id: 2011.07460 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: direct classification of emotional intensity 
+
+img_id: 2004.03340 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: supplementary material class agnostic continual learning of alternate language and domain 
+
+img_id: 2008.06529 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: three variant of differential privacy : conversion and application 
+
+img_id: 2011.11858 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: 40 : a benchmark for generic multiple object track supplementary material 
+
+img_id: 2012.02619 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: computational complexity of three central problem in mining 
+
+img_id: 2007.05577 
+candidates: ['on', 'the', 'of', 'deep', 'learning'] 
+references: : a system to help better understand rl agent 
+
+img_id: 2006.11465 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: towards a self organize pre symbolic neural model represent sensorimotor primitive 
+
+img_id: 2001.10343 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: predictive analysis of price consider social sentiment 
+
+img_id: 2009.10790 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: use unsupervised learning to help discover the causal graph 
+
+img_id: 2006.11362 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: optimal statistical hypothesis test for social choice 
+
+img_id: 2011.06619 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn latent representation to influence multi agent interaction 
+
+img_id: 2012.02671 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: learn in two player game between transparent opponent 
+
+img_id: 2009.01798 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: of approximate posterior inference for bayesian deep learning in adversarial and out of distribution setting 
+
+img_id: 2006.05051 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: constrain episodic reinforcement learning in convex and knapsack setting 
+
+img_id: 2010.16326 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: all of the fairness for edge prediction with optimal transport 
+
+img_id: 2003.00863 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: adaptive structural hyper parameter configuration by q learning 
+
+img_id: 2006.00417 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: variational reward estimator bottleneck : learning robust reward estimator for multi domain task orient dialog 
+
+img_id: 2002.09884 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: discriminative particle filter reinforcement learn for complex partial observation 
+
+img_id: 2005.04166 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: time efficiency in optimization with a bayesian evolutionary algorithm 
+
+img_id: 2006.00900 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : model base plan with sparse reward and multiple goal 
+
+img_id: 2002.04335 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: static and dynamic value of computation in mcts 
+
+img_id: 2008.00363 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: look in the right place for anomaly : explainable ai through automatic location learning 
+
+img_id: 2007.03363 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep reinforcement learn with interactive feedback in a human robot environment 
+
+img_id: 2007.09998 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: lagrangian duality in reinforcement learning 
+
+img_id: 2003.08207 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: modeling and solve a vehicle sharing problem 
+
+img_id: 2008.05660 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: imitate unknown policy via exploration 
+
+img_id: 2011.00534 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: neuromorphic control for flow base of use the processor 
+
+img_id: 2010.08034 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: overfitting or ? understand robustness drop in adversarial training 
+
+img_id: 2002.08653 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: detect code clone with graph neural network and flow augment abstract syntax tree 
+
+img_id: 2004.10984 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a complete characterization of for statistical relational model 
+
+img_id: 2011.06716 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: dependency base anomaly detection : framework method and benchmark 
+
+img_id: 2010.07647 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a graph neural network base approach for detect suspicious user on online social medium 
+
+img_id: 2011.02143 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: condition text generation with transfer for closed domain dialogue system 
+
+img_id: 2010.07553 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: solar magnetic field extrapolation from data with ai generate 
+
+img_id: 2002.05505 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: assessment modeling : fundamental pre training task for interactive educational system 
+
+img_id: 2012.04751 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : a new challenge for open 
+
+img_id: 2010.07384 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: human interpretable model explainability on high dimensional data 
+
+img_id: 2001.03671 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : add to as a resource for language ground task in street view 
+
+img_id: 2010.01087 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a framework for reason on probabilistic description logic 
+
+img_id: 2001.00593 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: meaningful representation of physical system in neural network 
+
+img_id: 2005.07667 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: recent advance in sql query generation : a survey 
+
+img_id: 2007.12989 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: information fusion on belief network 
+
+img_id: 2012.01323 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: the model count competition 2020 
+
+img_id: 2005.06061 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : topological map abstraction for reinforcement learning 
+
+img_id: 2009.14505 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : take a ride up the nlu 
+
+img_id: 2007.13484 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: attention base graph resnet for motor intent detection from raw eeg signal 
+
+img_id: 2011.01014 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : learning vector representation for chess 
+
+img_id: 2010.03446 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: analogy analogy test : regularity in word embeddings 
+
+img_id: 2010.13583 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: method and dataset entity mining in scientific literature : a cnn + bi lstm model with self attention 
+
+img_id: 2003.05809 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: knowledge graph embeddings as a service 
+
+img_id: 2003.09044 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: for multi step multi task manipulation 
+
+img_id: 2006.09529 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: quality management of machine learn system 
+
+img_id: 2012.03236 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: cross layer distillation with semantic calibration 
+
+img_id: 2001.08837 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: graph constrain reinforcement learning for natural language action space 
+
+img_id: 2012.00057 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: move to see better : towards self supervise object detection 
+
+img_id: 2009.00145 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: cross modal knowledge reason for knowledge base visual question answer 
+
+img_id: 2002.06306 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: world : a testbed for never end learn 
+
+img_id: 2005.09998 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: tackle the challenge with : a tight integration of and constraint reasoning 
+
+img_id: 2001.06781 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: fresh : interactive reward shaping in high dimensional state space use human feedback 
+
+img_id: 2008.10244 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a completely annotated whole image dataset of cancer to aid human cancer research 
+
+img_id: 2012.00885 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: artificial intelligence technique for structural biology of intrinsically disorder protein 
+
+img_id: 2011.05302 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: on estimate the training cost of conversational recommendation system 
+
+img_id: 2012.03661 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: human supervise machine learning : who learn pattern faster ? 
+
+img_id: 2009.06112 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: information for model privacy 
+
+img_id: 2012.04858 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: model agnostic fit for understand information seek pattern in human 
+
+img_id: 2011.12468 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : pull request towards completion 
+
+img_id: 2010.16051 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: explanation generation for anomaly detection model apply to the fuel consumption of a vehicle fleet 
+
+img_id: 2002.08242 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: ai online filter to real world image recognition 
+
+img_id: 2003.04774 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: : a framework for optimization over ensemble tree model 
+
+img_id: 2007.08656 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a framework for automatic behavior generation in multi function swarm 
+
+img_id: 2003.11619 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: deep network as logical circuit : generalization and interpretation 
+
+img_id: 2009.12795 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: nn : neural network base clustering 
+
+img_id: 2010.03697 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: a critique of self expressive deep subspace cluster 
+
+img_id: 2002.09758 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: unsupervised question decomposition for question answering 
+
+img_id: 2006.03312 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: plan : robust program learning from infer specification 
+
+img_id: 2001.11027 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: the tensor brain : semantic decoding for perception and memory 
+
+img_id: 2001.06354 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: modality balance model for visual dialogue 
+
+img_id: 2010.07734 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: self training for few shot transfer across extreme task difference 
+
+img_id: 2009.05815 
+candidates: ['on', 'the', 'of', 'deep', 'learning'] 
+references: explainable automate reason in law use probabilistic epistemic argumentation 
+
+img_id: 2009.10348 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: a constraint programming base job for modern system and application 
+
+img_id: 2007.05234 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: pragmatic information in translation : a corpus base study of tense and mood in english and german 
+
+img_id: 2012.03058 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: : bayesian local interpretable model agnostic explanation 
+
+img_id: 2012.01879 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: learn two stream cnn for multi modal age relate categorization 
+
+img_id: 2002.11089 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: rewrite history with inverse rl : hindsight inference for policy improvement 
+
+img_id: 2008.04548 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: dense : an enhanced non group representation for knowledge graph embed 
+
+img_id: 2001.01326 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: evolutionary approach to card game use active gene 
+
+img_id: 2010.14258 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: physic base deep learning for communication system 
+
+img_id: 2004.00716 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: constrain space optimization and reinforcement learning for complex task 
+
+img_id: 2005.03632 
+candidates: [':', 'a', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: and knowledge discovery from interpretable model of 2020 as prepare by the author 
+
+img_id: 2001.04219 
+candidates: ['a', 'survey', 'of', 'deep', 'learning'] 
+references: structural decomposition of epistemic logic program 
+
+img_id: 2009.03009 
+candidates: ['a', 'survey', 'of', 'deep', 'learning', 'framework', 'for', 'multi', 'agent', 'reinforcement', 'learning'] 
+references: active learning of causal structure with deep reinforcement learning 
+

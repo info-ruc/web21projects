@@ -9,10 +9,28 @@ File Size: 207MB
 
 
 Dataset Structure:
-├─dataset
+
+```
+dataset
     ├─BERT_data
     │      negative.csv
     │      positive.csv
+    │      
+    ├─data_pre
+    │      critical_sentence_vector.xlsx
+    │      train_data.txt
+    │      train_data_cut.txt
+    │      train_data_vector.xlsx
+    │      
+    ├─raw_data
+    │      raw_data_kaixin.xlsx
+    │      raw_data_kuailedabenying.xlsx
+    │      raw_data_yiyu.xlsx
+    │      raw_data_yiyuzheng.xlsx
+    │      raw_data_yiyuzheng_new.xlsx
+    │      raw_data_yiyuzheng_new2.xlsx
+    │      raw_data_yiyu_new.xlsx
+    │      raw_data_yiyu_new2.xlsx
     │      
     ├─dataset_tieba
     │  ├─negative
@@ -9059,22 +9077,6 @@ Dataset Structure:
     │          999314404.xlsx
     │          999605532.xlsx
     │          999783108.xlsx
-    │          
-    ├─data_pre
-    │      critical_sentence_vector.xlsx
-    │      train_data.txt
-    │      train_data_cut.txt
-    │      train_data_vector.xlsx
-    │      
-    ├─raw_data
-    │      raw_data_kaixin.xlsx
-    │      raw_data_kuailedabenying.xlsx
-    │      raw_data_yiyu.xlsx
-    │      raw_data_yiyuzheng.xlsx
-    │      raw_data_yiyuzheng_new.xlsx
-    │      raw_data_yiyuzheng_new2.xlsx
-    │      raw_data_yiyu_new.xlsx
-    │      raw_data_yiyu_new2.xlsx
     │      
     └─selected_data
             final_selected_data.xlsx
@@ -9082,3 +9084,5 @@ Dataset Structure:
             selected_data_yiyu.xlsx
             selected_data_yiyuzheng.xlsx
             
+
+```

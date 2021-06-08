@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+标注数据列表
+{% endblock title %}
+
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+<div style="width: 92%;margin-left: 4%;margin-right: 4%">
+
+<table class="table table-hover" id="mytable">
+    <thead>
+        <tr>
+        <th scope="col">编号</th>
+          <th scope="col">内容</th>
+          <th scope="col">日期</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for data in data_list %}
+        <tr id="{{ data.id }}">
+                <th scope="row">{{ data.id }}</th>
+                <td>
+                    <ul class="list-unstyled" >
+                <li class="media">
+                    <div class="rounded-lg">
+                        <img class="mr-3" src="{{ data.tou_xiang }}" style="width: 50px; height: 50px;">
+                    </div>
+                    <div class="media-body"  style="width: 80%">
+                        <h5 class="mt-0 mb-1">{{ data.author_name }}</h5>
+                        <p class="weibo_text">微博内容：{{ data.doc_text }}</p>
+                        <p class="source_text">转发原文：// {{ data.weibo_source }}</p>
+                        <p class="source_text">{{ data.weibo_id }}</p>
+                        <p class="mb-0">{{ data.doc_date }} </p>
+                        <a href="{{ data.weibo_link }}" target="_blank">阅读原文</a>
+                    </div>
+                </li>
+            </ul>
+                </td>
+                <td style="display:none;">{{ data.doc_time }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+</table>
+</div>
+
+{% endblock content %}
+
+
+{% block footJS %}
+<script type="text/javascript">
+
+$(document).ready( function(){
+          $('#mytable').DataTable();
+      });
+
+</script>
+{% endblock footJS%}
+
+

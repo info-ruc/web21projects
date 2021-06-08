@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+    法律列表
+{% endblock title %}
+
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+<div style="width: 80%;margin-left: 10%;margin-right: 10%">
+
+<table class="table table-hover" id="mytable">
+  <thead>
+    <tr>
+      <th scope="col">编号</th>
+      <th scope="col">法律名</th>
+      <th scope="col">时效性</th>
+      <!-- <th scope="col">发布部门</th> -->
+      <th scope="col">原创</th>
+      <th scope="col">热度</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for law in laws %}
+    <tr id="{{ law.law_id }}"  class="{{ law.law_name }}"
+          onclick="jump(this.id,this.class)">
+            <th scope="row">{{ law.law_id }}</th>
+            <td>{{ law.law_name }}</td>
+            <td>{{ law.timeliness }}</td>
+            <!-- <td>{{ law.department }}</td> -->
+            <td>{{ law.origin_count }}</td>
+            <td>{{ law.total }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+
+{% endblock content %}
+
+{% block footJS %}
+<script type="text/javascript">
+
+$(document).ready( function(){
+          $('#mytable').DataTable();
+      });
+
+
+function jump(id){
+    var target = String(id) + '@' +  String('2019-01-01&2019-02-03')
+    myurl = "{% url 'regulation:law_clause_list' '1' %}"
+    myurl = myurl.replace("1",target)
+    // var name = document.getElementById(id).className.split(" ")[0]
+    // alert(name)
+    window.open(myurl)
+}
+
+
+</script>
+{% endblock footJS%}
+
+
+

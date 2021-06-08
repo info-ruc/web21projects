@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+司法解释列表
+{% endblock title %}
+
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+<div style="width: 92%;margin-left: 4%;margin-right: 4%">
+
+<table class="table table-hover" id="mytable">
+  <thead>
+    <tr>
+      <th scope="col">编号</th>
+      <th scope="col">解释名</th>
+      <th scope="col">发布部门</th>
+      <th scope="col">原创</th>
+      <th scope="col">热度</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for explain in explains %}
+    <tr id="{{ explain.explain_id }}" name="{{ explain.explain_name}}" 
+      onclick="jump(this.id,this.name)">
+      <th scope="row">{{ explain.explain_id }}</th>
+      <td>{{ explain.explain_name }}</td>
+      <td>{{ explain.department}}</td>
+      <td>{{ explain.origin_count }}</td>
+      <td>{{ explain.total }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+
+{% endblock content %}
+
+
+{% block footJS %}
+<script type="text/javascript">
+
+$(document).ready( function(){
+          $('#mytable').DataTable();
+      });
+
+
+
+function jump(id,name){
+    var target = String(id) + '@' +  String('2019-01-01&2019-02-03')
+    myurl = "{% url 'regulation:explain_element_list' '1' %}"
+    myurl = myurl.replace("1",target)
+    // alert(myurl)
+    window.open(myurl)
+}
+
+
+</script>
+{% endblock footJS%}
+
+

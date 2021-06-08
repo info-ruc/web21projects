@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+<!-- 写入 base.html 中定义的 title -->
+{% block title %}
+    {{ ful_name }}
+{% endblock title %}
+
+<!-- 写入 base.html 中定义的 content -->
+{% block content %}
+<div class="container">
+    <div class="row">
+        <!-- 标题及作者 -->
+        <h1 class="col-12 mt-4 mb-4" id = "title">{{ ful_name }}</h1>
+    </div>
+</div>
+
+<div style="width: 80%;margin-left: 10%;margin-right: 10%">
+<table class="table table-hover" id="mytable">
+  <thead>
+    <tr>
+      <th scope="col">编号</th>
+      <!-- <th scope="col">法条名</th> -->
+      <th scope="col">内容</th>
+      <th scope="col">原创</th>
+      <th scope="col">热度</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for clause in clauses %}
+    <tr id="{{ clause.clause_id }}" onclick="jump(this.id)">
+            <th scope="row">{{ clause.clause_id }}</th>
+            <!-- <td>{{ clause.clause_name }}</td> -->
+            <td>{{ clause.content}}</td>
+            <td>{{ clause.origin_count }}</td>
+            <td>{{ clause.total }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+
+{% endblock content %}
+
+
+{% block footJS %}
+<script type="text/javascript">
+    $.ajaxSetup({
+            data:{csrfmiddlewaretoken:'{{ csrf_token }}'}
+        })
+    $(document).ready( function(){
+          $('#mytable').DataTable();
+      });
+
+function jump(id){
+    var title = document.getElementById('title').innerHTML
+    var myparam = "law&" + title +"&" + id.toString() + "&1"
+    myurl = "{% url 'regulation:weibo_display' 'param' %}"
+    myurl = myurl.replace("param",myparam)
+    window.open(myurl)
+}
+
+
+
+</script>
+{% endblock footJS%}
